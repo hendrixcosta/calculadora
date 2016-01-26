@@ -1,0 +1,84 @@
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 34.787 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 12.621 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 8.754 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.964 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 1.347 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var calculadora.core/css at line 80 src\cljs\calculadora\core.cljs
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 1.723 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.903 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.465 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.392 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.355 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.289 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.316 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.378 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.466 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var calculadora.core/app-sta at line 28 src\cljs\calculadora\core.cljs
+WARNING: Use of undeclared Var calculadora.core/te at line 28 src\cljs\calculadora\core.cljs
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 1.265 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var calculadora.core/app-sta at line 25 src\cljs\calculadora\core.cljs
+WARNING: Use of undeclared Var calculadora.core/te at line 25 src\cljs\calculadora\core.cljs
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.392 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var calculadora.core/app-sta at line 25 src\cljs\calculadora\core.cljs
+WARNING: Use of undeclared Var calculadora.core/te at line 25 src\cljs\calculadora\core.cljs
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.364 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css

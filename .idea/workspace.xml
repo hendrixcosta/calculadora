@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8692799c-b763-46c6-b7f7-fb7d8d164b2e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figwheel_server.log" afterPath="$PROJECT_DIR$/figwheel_server.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/css/compiled/screen.css" afterPath="$PROJECT_DIR$/resources/public/css/compiled/screen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/connect.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/connect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/connect.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/connect.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/clj/calculadora/css.clj" afterPath="$PROJECT_DIR$/src/clj/calculadora/css.clj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cljs/calculadora/core.cljs" afterPath="$PROJECT_DIR$/src/cljs/calculadora/core.cljs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stale/extract-native.dependencies" afterPath="$PROJECT_DIR$/target/stale/extract-native.dependencies" />
     </list>
     <ignored path="calculadora.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.6520468">
+              <first_editor vertical-scroll-proportion="1.248538">
                 <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -36,6 +45,26 @@
           </provider>
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.cljs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cljs/calculadora/core.cljs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/clj/calculadora/css.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17128463">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -53,6 +82,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/cljs/calculadora/core.cljs" />
+        <option value="$PROJECT_DIR$/src/clj/calculadora/css.clj" />
       </list>
     </option>
   </component>
@@ -102,6 +133,42 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="calculadora" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calculadora" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calculadora" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calculadora" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calculadora" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calculadora" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="calculadora" />
@@ -217,7 +284,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.6520468">
+          <first_editor vertical-scroll-proportion="1.248538">
             <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -226,6 +293,22 @@
       </provider>
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cljs/calculadora/core.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clj/calculadora/css.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17128463">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

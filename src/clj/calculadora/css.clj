@@ -2,4 +2,4 @@
   (:require [garden.def :refer [defstyles]]))
 
 (defstyles screen
-  [:body {:color "red"}])
+  [:body {:font-size "25px"}])
