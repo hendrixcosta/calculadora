@@ -22,7 +22,7 @@
   (if (= 2 (@app-state :cont)) (zerar) )
   (cond
     (= 0 (@app-state :cont)) (swap! app-state assoc :op1 (str (@app-state :op1) valor ))
-    (= 1 (@app-state :cont)) (swap! app-sta te assoc :op2 (str (@app-state :op2) valor )))
+    (= 1 (@app-state :cont)) (swap! app-state assoc :op2 (str (@app-state :op2) valor )))
   (.log js/console (print-str @app-state )))
 
 (defn store-sinal [sinal]
@@ -31,34 +31,34 @@
   (.log js/console (print-str @app-state )))
 
 (defn visor []
-  [:div
+  [:div {:id "visor"}
    (@app-state :op1)(@app-state :operando) (@app-state :op2)  (@app-state :resultado)])
 
 
 (defn teclado []
-  [:div.teclas
+  [:div {:id "teclado"}
    [:input { :type "button" :value "7" :on-click #(store-op (-> % .-target .-value))}]
    [:input { :type "button" :value "8" :on-click #(store-op (-> % .-target .-value))}]
    [:input { :type "button" :value "9" :on-click #(store-op (-> % .-target .-value))}]
-   [:input { :type "button" :value "/" :on-click #(store-sinal (-> % .-target .-value))}][:br]
+   [:input.sinal { :type "button" :value "/" :on-click #(store-sinal (-> % .-target .-value))}][:br]
    [:input { :type "button" :value "4" :on-click #(store-op (-> % .-target .-value))}]
    [:input { :type "button" :value "5" :on-click #(store-op (-> % .-target .-value))}]
    [:input { :type "button" :value "6" :on-click #(store-op (-> % .-target .-value))}]
-   [:input { :type "button" :value "*" :on-click #(store-sinal (-> % .-target .-value))}][:br]
+   [:input.sinal { :type "button" :value "*" :on-click #(store-sinal (-> % .-target .-value))}][:br]
    [:input { :type "button" :value "1" :on-click #(store-op (-> % .-target .-value))}]
    [:input { :type "button" :value "2" :on-click #(store-op (-> % .-target .-value))}]
    [:input { :type "button" :value "3" :on-click #(store-op (-> % .-target .-value))}]
-   [:input { :type "button" :value "." :on-click #(store-op (-> % .-target .-value))}] [:br]
-   [:input { :type "button" :value "+" :on-click #(store-sinal (-> % .-target .-value))}]
-   [:input { :type "button" :value "-" :on-click #(store-sinal (-> % .-target .-value))}]
-   [:input { :type "button" :value "=" :on-click #(calcular)}]])
+   [:input.sinal { :type "button" :value "+" :on-click #(store-sinal (-> % .-target .-value))}] [:br]
+   [:input { :type "button" :value "." :on-click #(store-op (-> % .-target .-value))}]
+   [:input { :type "button" :value "0" :on-click #(store-op (-> % .-target .-value))}]
+   [:input.igual { :type "button" :value "=" :on-click #(calcular)}]
+   [:input.sinal { :type "button" :value "-" :on-click #(store-sinal (-> % .-target .-value))}]])
 
 (defn calculadora []
-  [:div.titulo  [:h1 "Calculadora"]
-   [:br]
+  [:div.calculadora {:id "calculadora"}
    [visor]
-   [:br]
-   [teclado]])
+   [teclado]
+   ])
 
 (defn page []
   [calculadora])

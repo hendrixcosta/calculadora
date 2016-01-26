@@ -82,3 +82,556 @@ sending changed CSS file: resources/public/css/compiled/screen.css
 sending changed CSS file: resources/public/css/compiled/screen.css
 sending changed CSS file: resources/public/css/compiled/screen.css
 sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var calculadora.core/app-sta at line 25 src\cljs\calculadora\core.cljs
+WARNING: Use of undeclared Var calculadora.core/te at line 25 src\cljs\calculadora\core.cljs
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.354 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.291 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.358 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.355 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.491 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.717 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.408 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.404 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.573 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/compiled/app.js" failed.
+[0mERROR: Duplicate key: [:br] on file C:\Users\Hendrix\Google Drive\Clojure\calculadora\src\cljs\calculadora\core.cljs, line 54, column 65
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.944 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.401 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.395 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.322 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.364 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.32 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.286 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.564 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.478 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.412 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.347 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.395 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.428 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.454 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.625 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/compiled/app.js" failed.
+[0mERROR: Invalid token: : on file C:\Users\Hendrix\Google Drive\Clojure\calculadora\src\cljs\calculadora\core.cljs, line 58, column 23
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.35 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+[31mCompiling "resources/public/js/compiled/app.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file C:\Users\Hendrix\Google Drive\Clojure\calculadora\src\cljs\calculadora\core.cljs, line 58, column 29
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.336 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.369 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.378 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 13.733 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.743 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.374 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.341 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.326 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 1.415 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.321 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.265 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.393 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.323 seconds.[0m
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
+sending changed CSS file: resources/public/css/compiled/screen.css
