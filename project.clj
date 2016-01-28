@@ -2,7 +2,8 @@
   :dependencies [[org.clojure/clojure "1.7.0"]
                  [org.clojure/clojurescript "1.7.170"]
                  [reagent "0.5.1"]
-                 [garden "1.3.0"]]
+                 [garden "1.3.0"]
+                 [metosin/compojure-api "0.23.0"]]
 
   :min-lein-version "2.5.3"
 
@@ -10,7 +11,10 @@
 
   :plugins [[lein-cljsbuild "1.1.1"]
             [lein-figwheel "0.5.0-2"]
-            [lein-garden "0.2.6"]]
+            [lein-garden "0.2.6"]
+            [lein-ring "0.9.6"]]
+
+  :ring {:handler calculadora.core/app}
 
   :clean-targets ^{:protect false} ["resources/public/js/compiled" "target"  
                                     "resources/public/css/compiled"]

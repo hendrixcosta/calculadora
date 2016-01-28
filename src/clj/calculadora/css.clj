@@ -31,7 +31,7 @@
               {:background "#448AFF"}]
 
    ["#teclado input.igual"
-    {:background "#72B5A4"
+    {:background "#FF5722 "
      ;:height "60px"
      }]
 
