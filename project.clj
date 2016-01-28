@@ -3,7 +3,8 @@
                  [org.clojure/clojurescript "1.7.170"]
                  [reagent "0.5.1"]
                  [garden "1.3.0"]
-                 [metosin/compojure-api "0.23.0"]]
+                 [metosin/compojure-api "0.23.0"]
+                 [cljs-ajax "0.5.3"]]
 
   :min-lein-version "2.5.3"
 
