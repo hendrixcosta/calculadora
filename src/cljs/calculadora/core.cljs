@@ -1,10 +1,26 @@
 (ns calculadora.core
-    (:require [reagent.core :as reagent]))
+    (:require [reagent.core :as reagent]
+              [ajax.core :refer [GET POST]]))
 
 (def app-state (reagent/atom {:op1 "" :op2 "" :operando "" :resultado "" :cont 0}))
 
 (defn zerar []
   (reset! app-state {:op1 "" :op2 "" :operando "" :resultado "" :cont 0} ))
+
+(defn handler [response]
+  (.log js/console (str response)))
+
+(defn error-handler [{:keys [status status-text]}]
+  (.log js/console (str "something bad happened: " status " " status-text)))
+
+(defn fatorial []
+  (GET "http://localhost:3000/fatorial/4"
+       {:headers {"Access-Control-Allow-Origin"  "*"
+                  "Access-Control-Allow-Headers" "Content-Type"}
+        :handler handler
+        :error-handler error-handler })
+)
+
 
 (defn calcular []
   (let [resultado
@@ -49,9 +65,10 @@
    [:input { :type "button" :value "2" :on-click #(store-op (-> % .-target .-value))}]
    [:input { :type "button" :value "3" :on-click #(store-op (-> % .-target .-value))}]
    [:input.sinal { :type "button" :value "+" :on-click #(store-sinal (-> % .-target .-value))}] [:br]
-   [:input { :type "button" :value "." :on-click #(store-op (-> % .-target .-value))}]
+   ;[:input { :type "button" :value "." :on-click #(store-op (-> % .-target .-value))}]
    [:input { :type "button" :value "0" :on-click #(store-op (-> % .-target .-value))}]
    [:input.igual { :type "button" :value "=" :on-click #(calcular)}]
+   [:input.igual { :type "button" :value "x!" :on-click #(fatorial)}]
    [:input.sinal { :type "button" :value "-" :on-click #(store-sinal (-> % .-target .-value))}]])
 
 (defn calculadora []

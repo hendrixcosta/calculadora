@@ -1,11 +1,25 @@
 (ns calculadora.core
-  (:require [ring.util.http-response :refer [ok]]
-            [compojure.api.sweet :refer :all]))
+  (:require [compojure.api.sweet :refer :all]
+            [clojure.tools.logging :as log])
+  (:use  ring.util.response))
 
 (defn fatorial [x]
   (if (< x 2)
     1
     (* x (fatorial (dec x)))))
+
+
+(defn fatorial-response [num]
+
+  (-> (response {:foo "bar"} )
+      (header "Access-Control-Allow-Origin" "*")
+      (header "Access-Control-Allow-Headers" "Content-Type")
+      (header "Access-Control-Allow-Methods" "GET")
+      ;(content-type "application/json")
+      )
+
+  )
+
 
 (defapi app
         (swagger-ui)
@@ -16,14 +30,17 @@
 
         (GET* "/fatorial" []
               :query-params [num :- Long]
-              (ok {:result (fatorial num)}))
+              (log/info (str  "GET com parametro na QueryString = " num ))
+              (fatorial-response num))
 
         (GET* "/fatorial/:num" []
               :path-params [num :- Long]
-              (ok {:result (str "numero = " num)}))
+              (log/info (str "GET com parametro na path = " num))
+              (fatorial-response num))
+
 
         (POST* "/fatorial" []
               :body-params [num :- Long]
-               (ok {:result (str "numero = " num)}))
-
+               (log/info (str  "POST com num = " num))
+               (fatorial-response num))
         )
