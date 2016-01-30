@@ -14,7 +14,7 @@
   (.log js/console (str "something bad happened: " status " " status-text)))
 
 (defn fatorial []
-  (GET "http://localhost:3000/fatorial/4"
+  (GET "http://jsonip.com"
        {:headers {"Access-Control-Allow-Origin"  "*"
                   "Access-Control-Allow-Headers" "Content-Type"}
         :handler handler

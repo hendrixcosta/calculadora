@@ -3,9 +3,11 @@
                  [org.clojure/clojurescript "1.7.170"]
                  [reagent "0.5.1"]
                  [garden "1.3.0"]
+                 ;[compojure "1.4.0"]
                  [metosin/compojure-api "0.23.0"]
                  [cljs-ajax "0.5.3"]
-                 [org.clojure/tools.logging "0.3.1"]]
+                 [org.clojure/tools.logging "0.3.1"]
+                 [ring-cors "0.1.7"]]
 
   :min-lein-version "2.5.3"
 
@@ -27,7 +29,8 @@
                      :compiler {:output-to "resources/public/css/compiled/screen.css"
                                 :pretty-print? true}}]}
 
-  :figwheel {:css-dirs ["resources/public/css"]}
+  :figwheel {:css-dirs ["resources/public/css"]
+             :ring-handler calculadora.server1/handler}
 
   :cljsbuild {:builds [{:id "dev"
                         :source-paths ["src/cljs"]
