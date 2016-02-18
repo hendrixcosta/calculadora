@@ -6,3 +6,55 @@ notifying browser that file changed:  out\calculadora\core.js
 [0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
 notifying browser that file changed:  out\calculadora\core.js
 [32mSuccessfully compiled "resources/public/js/compiled/app.js" in 1.038 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 5.19 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 2.066 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 2.108 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.796 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.829 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.622 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.521 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.841 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.728 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+WARNING: Wrong number of args (0) passed to calculadora.core/fatorial at line 74 src\cljs\calculadora\core.cljs
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.875 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.6 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.523 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.585 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.514 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.467 seconds.[0m
