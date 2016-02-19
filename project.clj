@@ -8,7 +8,7 @@
                  [cljs-ajax "0.5.3"]
                  [org.clojure/tools.logging "0.3.1"]]
 
-  :min-lein-version "2.5.3"
+  :min-lein-version "2.5.1"
 
   :source-paths ["src/clj"]
 

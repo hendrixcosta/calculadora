@@ -2,101 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8692799c-b763-46c6-b7f7-fb7d8d164b2e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__clj_time_0_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__ring_ring_core_1_4_0.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__clj_time_0_11_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__ring_ring_core_1_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/calc2/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/calc2/core.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/clj/calculadora/server1.clj" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_fileupload_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__commons_fileupload_1_3_1.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__joda_time_2_8_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__joda_time_2_6.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__ring_cors_0_1_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/figwheel_temp/dev/figwheel/connect.cljs" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calculadora.iml" afterPath="$PROJECT_DIR$/calculadora.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figwheel_server.log" afterPath="$PROJECT_DIR$/figwheel_server.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.clj" afterPath="$PROJECT_DIR$/project.clj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/core.cljc.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/core.cljc.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/core.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/core.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/core.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/protocols.cljc.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/protocols.cljc.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/protocols.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/protocols.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/protocols.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/protocols.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/xhrio.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/xhrio.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/xhrio.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/xhrio.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/xml_http_request.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/xml_http_request.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/xml_http_request.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/ajax/xml_http_request.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.cljs" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.cljs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/buffers.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/buffers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/buffers.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/buffers.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/channels.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/channels.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/channels.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/channels.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/channels.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/channels.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/dispatch.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/dispatch.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/dispatch.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/dispatch.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/ioc_helpers.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/ioc_helpers.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/ioc_helpers.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/ioc_helpers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/ioc_helpers.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/ioc_helpers.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/protocols.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/protocols.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/protocols.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/protocols.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/timers.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/timers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/timers.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/core/async/impl/timers.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/pprint.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/pprint.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/pprint.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/pprint.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/pprint.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/pprint.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/reader.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/reader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/reader.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/reader.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/repl.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/repl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/repl.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cljs/repl.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/clojure/set.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/clojure/set.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/clojure/set.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/clojure/set.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/clojure/string.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/clojure/string.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/clojure/string.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/clojure/string.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cognitect/transit.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cognitect/transit.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cognitect/transit.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cognitect/transit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/cognitect/transit.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/cognitect/transit.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/file_reloading.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/file_reloading.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/file_reloading.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/file_reloading.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/file_reloading.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/file_reloading.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/heads_up.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/heads_up.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/heads_up.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/heads_up.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/heads_up.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/heads_up.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/socket.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/socket.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/socket.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/socket.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/socket.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/socket.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/utils.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/utils.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/utils.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/utils.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/client/utils.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/connect.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/connect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/connect.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/connect.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/core.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/core.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/core.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/debug.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/debug.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/debug.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/debug.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/batching.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/batching.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/batching.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/batching.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/component.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/component.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/template.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/template.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/template.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/template.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/util.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/util.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/impl/util.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/interop.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/interop.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/interop.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/interop.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/ratom.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/ratom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/ratom.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/reagent/ratom.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/clj/calculadora/core.clj" afterPath="$PROJECT_DIR$/src/clj/calculadora/core.clj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cljs/calculadora/core.cljs" afterPath="$PROJECT_DIR$/src/cljs/calculadora/core.cljs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/calculadora/calculadora/pom.properties" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/calculadora/calculadora/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stale/extract-native.dependencies" afterPath="$PROJECT_DIR$/target/stale/extract-native.dependencies" />
     </list>
     <ignored path="calculadora.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -150,8 +60,8 @@
       <file leaf-file-name="project.clj" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29310346">
-              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.6228448">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -214,7 +124,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -319,8 +228,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -583,6 +493,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cljs/calculadora/core.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="80" column="20" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clj/calculadora/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clj/calculadora/css.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -611,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -635,7 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -699,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,7 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,7 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,7 +751,6 @@
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -852,7 +787,6 @@
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -896,7 +830,6 @@
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="1.0948012">
             <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -906,7 +839,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -930,7 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -960,8 +891,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29310346">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.6228448">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
           <folding />
         </state>
       </provider>

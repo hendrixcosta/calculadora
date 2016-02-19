@@ -30,4 +30,4 @@ return G__19486;
 })()
 ,new cljs.core.Keyword(null,"build-id","build-id",1642831089),"dev",new cljs.core.Keyword(null,"websocket-url","websocket-url",-490444938),"ws://localhost:3449/figwheel-ws"], null));
 
-//# sourceMappingURL=connect.js.map?rel=1455839066093
+//# sourceMappingURL=connect.js.map?rel=1455840779093
