@@ -1,40 +1,25 @@
-# calculadora
+# Calculadora
 
-A reagent application designed to ... well, that part is up to you.
 
-## Development Mode
 
-### Compile css:
+1º Step - Iniciar a Aplicação  
 
-Compile css file once.
+lein figwheel
 
-```
-lein garden once
-```
+go to: http://localhost:3449
 
-Automatically recompile css file on change.
 
-```
-lein garden auto
-```
 
-### Run application:
+2º Step - Iniciar o Web Service responsavel por calcular o fatorial
 
-```
-lein clean
-lein figwheel dev
-```
+lein ring server
 
-Figwheel will automatically push cljs changes to the browser.
+go to para ver interface grafica do WS: http://localhost:3000
 
-Wait a bit, then browse to [http://localhost:3449](http://localhost:3449).
 
-## Production Build
+3º Step - 
+Voltar à  http://localhost:3449 e calcular!
 
-```
-lein clean
-lein cljsbuild once min
-```
-=======
-# calculadora
+ex: 31 / 2 = 15.5
+ex: 4 ! = 24
 
