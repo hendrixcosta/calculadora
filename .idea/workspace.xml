@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8692799c-b763-46c6-b7f7-fb7d8d164b2e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figwheel_server.log" afterPath="$PROJECT_DIR$/figwheel_server.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.cljs" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.cljs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.cljs.cache.edn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/calculadora/core.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/connect.js" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/connect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/connect.js.map" afterPath="$PROJECT_DIR$/resources/public/js/compiled/out/figwheel/connect.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/clj/calculadora/core.clj" afterPath="$PROJECT_DIR$/src/clj/calculadora/core.clj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/clj/calculadora/css.clj" afterPath="$PROJECT_DIR$/src/clj/calculadora/css.clj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cljs/calculadora/core.cljs" afterPath="$PROJECT_DIR$/src/cljs/calculadora/core.cljs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/calculadora/calculadora/pom.properties" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/calculadora/calculadora/pom.properties" />
     </list>
     <ignored path="calculadora.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="core.cljs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="core.cljs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cljs/calculadora/core.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.6228448">
+              <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -65,10 +53,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1556064">
+            <state vertical-scroll-proportion="-2.5185184">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
@@ -122,9 +110,9 @@
         <option value="$PROJECT_DIR$/project.clj" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/clj/calculadora/core.clj" />
-        <option value="$PROJECT_DIR$/src/cljs/calculadora/core.cljs" />
         <option value="$PROJECT_DIR$/src/clj/calculadora/css.clj" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/cljs/calculadora/core.cljs" />
       </list>
     </option>
   </component>
@@ -871,22 +859,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/clj/calculadora/core.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cljs/calculadora/core.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/clj/calculadora/css.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -897,8 +869,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1556064">
+        <state vertical-scroll-proportion="-2.5185184">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clj/calculadora/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cljs/calculadora/core.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6228448">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
           <folding />
         </state>
       </provider>
