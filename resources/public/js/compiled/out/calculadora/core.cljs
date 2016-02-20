@@ -72,7 +72,7 @@
    [:input { :type "button" :value "2" :on-click #(store-op (-> % .-target .-value))}]
    [:input { :type "button" :value "3" :on-click #(store-op (-> % .-target .-value))}]
    [:input.sinal { :type "button" :value "+" :on-click #(store-sinal (-> % .-target .-value))}] [:br]
-   ;[:input { :type "button" :value "." :on-click #(store-op (-> % .-target .-value))}]
+   [:input { :type "button" :value "." :on-click #(store-op (-> % .-target .-value))}]
    [:input { :type "button" :value "0" :on-click #(store-op (-> % .-target .-value))}]
    [:input.igual { :type "button" :value "=" :on-click #(calcular)}]
    [:input.igual { :type "button" :value "x!" :on-click #(fatorial)}]

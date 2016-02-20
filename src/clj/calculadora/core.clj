@@ -7,7 +7,7 @@
 (defn fatorial [x]
   (if (< x 2)
     1
-    (* x (fatorial (dec x)))))
+    (bigint (* x (fatorial (dec x))))))
 
 ;; funcao que cria respostas com o resultado do fatorial no corpo e com o header setado para CORS
 (defn fatorial-response [num]

@@ -58,3 +58,20 @@ notifying browser that file changed:  out\calculadora\core.js
 [0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
 notifying browser that file changed:  out\calculadora\core.js
 [32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.467 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 45.428 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var calculadora.core/read- at line 31 src\cljs\calculadora\core.cljs
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 24.402 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+WARNING: Use of undeclared Var calculadora.core/read-string at line 31 src\cljs\calculadora\core.cljs
+WARNING: Use of undeclared Var calculadora.core/read-string at line 31 src\cljs\calculadora\core.cljs
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 1.517 seconds.[0m
+[0mCompiling "resources/public/js/compiled/app.js" from ["src/cljs"]...
+notifying browser that file changed:  out\calculadora\core.js
+[32mSuccessfully compiled "resources/public/js/compiled/app.js" in 0.869 seconds.[0m

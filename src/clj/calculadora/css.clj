@@ -7,13 +7,13 @@
 
    ["#calculadora" {:background "#C5CAE9"
                     :width "120px"
-                    :height "150px"
+                    :height "250px"
                     :padding-right "20px"
                     :padding-left "20px"
                     :padding-top "20px"
                     :padding-bottom "40px"
                     :border-radius "25px";
-                    :border "0px" }]
+                    :border "1px" }]
 
    ["#teclado" {
 
@@ -31,13 +31,13 @@
               {:background "#448AFF"}]
 
    ["#teclado input.igual"
+
     {:background "#FF5722 "
      ;:height "60px"
      }]
 
-
    ["#visor"
-    {:background "#3F51B5"
+    {:background "#123456"
      :color "#FFFFFF"
      :width "118px"
      :height "30px"
