@@ -1,21 +1,30 @@
 (defproject calculadora "0.1.0-SNAPSHOT"
-  :dependencies [[org.clojure/clojure "1.7.0"]
-                 [org.clojure/clojurescript "1.7.170"]
-                 [reagent "0.5.1"]
-                 [garden "1.3.0"]
-                 [compojure "1.4.0"]
-                 [metosin/compojure-api "0.23.0"]
-                 [cljs-ajax "0.5.3"]
-                 [org.clojure/tools.logging "0.3.1"]]
 
-  :min-lein-version "2.5.1"
+  :min-lein-version "2.9.1"
+
+  :dependencies [
+                 [org.clojure/clojure "1.11.1"]
+                 [compojure "1.7.0"]
+                 [org.clojure/tools.logging "1.2.4"]
+                 [ring/ring-defaults "0.3.3"]
+                 [org.clojure/clojurescript "1.10.773"]
+                 [org.clojure/core.async "1.5.648"]
+                 [reagent "1.1.1" :exclusions [cljsjs/react cljsjs/react-dom]]
+                 [cljsjs/react "18.2.0-0"]
+                 [cljsjs/react-dom "18.2.0-0"]
+                 [garden "1.3.10"]
+                 [metosin/jsonista "0.3.6"]
+                 [metosin/compojure-api "2.0.0-alpha31"]
+                 [cljs-ajax "0.8.4" :exclusions [org.clojure/clojure]]
+                 [org.clojure/tools.analyzer "1.1.0"]
+                 ]
+
+  :plugins [[lein-cljsbuild "1.1.8" :exclusions [[org.clojure/clojure]]]
+            [lein-figwheel "0.5.20"]
+            [lein-garden "0.3.0"]
+            [lein-ring "0.12.6"]]
 
   :source-paths ["src/clj"]
-
-  :plugins [[lein-cljsbuild "1.1.1"]
-            [lein-figwheel "0.5.0-2"]
-            [lein-garden "0.2.6"]
-            [lein-ring "0.9.6"]]
 
   ;servidor do webservice fatorial
   :ring {:handler calculadora.core/app}
@@ -33,21 +42,48 @@
   ;servidor da aplicação calculadora
   :figwheel {
              ;diretorio do css para o server recarregar a cada change
-             :css-dirs ["resources/public/css"]}
+             :css-dirs ["resources/public/css"]
+             }
 
   ;plugin do compilador do clojure script
-  :cljsbuild {:builds [{:id "dev"
-                        :source-paths ["src/cljs"]
-                        :figwheel {:on-jsload "calculadora.core/main"}
-                        :compiler {:main calculadora.core
-                                   :output-to "resources/public/js/compiled/app.js"
-                                   :output-dir "resources/public/js/compiled/out"
-                                   :asset-path "js/compiled/out"
-                                   :source-map-timestamp true}}
+  :cljsbuild {:builds
+              [{:id "dev"
+                :source-paths ["src/cljs"]
 
-                       {:id "min"
-                        :source-paths ["src/cljs"]
-                        :compiler {:main calculadora.core
-                                   :output-to "resources/public/js/compiled/app.js"
-                                   :optimizations :advanced
-                                   :pretty-print false}}]})
+                ;; The presence of a :figwheel configuration here
+                ;; will cause figwheel to inject the figwheel client
+                ;; into your build
+                :figwheel {:on-jsload "calculadora.core/on-js-reload"
+                           ;; :open-urls will pop open your application
+                           ;; in the default browser once Figwheel has
+                           ;; started and compiled your application.
+                           ;; Comment this out once it no longer serves you.
+                           :open-urls ["http://localhost:3449/index.html"]}
+
+                :compiler {:main calculadora.core
+                           :asset-path "js/compiled/out"
+                           :output-to "resources/public/js/compiled/calculadora.js"
+                           :output-dir "resources/public/js/compiled/out"
+                           :source-map-timestamp true
+                           ;; To console.log CLJS data-structures make sure you enable devtools in Chrome
+                           ;; https://github.com/binaryage/cljs-devtools
+                           :preloads [devtools.preload]}}
+               ;; This next build is a compressed minified build for
+               ;; production. You can build this with:
+               ;; lein cljsbuild once min
+               {:id "min"
+                :source-paths ["src/cljs"]
+                :compiler {:output-to "resources/public/js/compiled/calculadora.js"
+                           :main calculadora.core
+                           :optimizations :advanced
+                           :pretty-print false}}]}
+
+  :profiles {:dev {:dependencies [[binaryage/devtools "1.0.0"]
+                                  [figwheel-sidecar "0.5.20"]]
+                   ;; need to add dev source path here to get user.clj loaded
+                   :source-paths ["src/cljs" "dev"]
+                   ;; need to add the compiled assets to the :clean-targets
+                   :clean-targets ^{:protect false} ["resources/public/js/compiled"
+                                                     :target-path]}}
+
+)

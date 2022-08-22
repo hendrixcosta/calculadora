@@ -1,5 +1,6 @@
 (ns calculadora.core
     (:require [reagent.core :as reagent]
+              [reagent.dom :as rdom]
               [ajax.core :refer [GET POST]]))
 
 (def app-state (reagent/atom {:op1 "" :op2 "" :operando "" :resultado "" :cont 0}))
@@ -10,8 +11,9 @@
 
 ;;handler para a resposta do web service
 (defn handler-fatorial [response]
+  (.log js/console (str  (:result  response)) )
   (swap! app-state assoc :operando "!")
-  (swap! app-state assoc :resultado (str " = " (get response "result")))
+  (swap! app-state assoc :resultado (str " = " (:result response)))
   (swap! app-state assoc :cont 2))
 
 ;;handler em caso de erro do WS
@@ -20,7 +22,7 @@
 
 ;;funcao de fatorial que aciona o WebService
 (defn fatorial []
-  (GET (str "http://localhost:3000/fatorial?num=" (@app-state :op1))
+  (GET (str "http://localhost:3000/api/fatorial?num=" (@app-state :op1))
        {:handler       handler-fatorial
         :error-handler error-handler}))
 
@@ -81,12 +83,12 @@
 (defn calculadora []
   [:div.calculadora {:id "calculadora"}
    [visor]
-   [teclado]
+    [teclado]
    ])
 
 (defn page []
   [calculadora])
 
-(defn ^:export main []
-  (reagent/render [page]
-                  (.getElementById js/document "app")))
+(defn main []
+  (rdom/render [page]
+               (js/document.getElementById "app")))
